@@ -15,7 +15,7 @@ FlowHeight changes the font-size based on a specific element's height. This allo
 
 ### Step 1: Install FlowHeight ###
 
-- [Download the latest release](https://github.com/andresouza/flowheight/releases/tag/1.0.0).
+- [Download the latest release](https://github.com/andresouza/flowheight/releases/tag/1.1.0).
 - Clone the repo: `git clone https://github.com/andresouza/flowheight.git`.
 - Install with [Bower](http://bower.io): `bower install flowheight`.
 
