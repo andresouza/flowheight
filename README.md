@@ -10,38 +10,6 @@ If you are building a awesome Landing Page or trying to style different sections
 
 FlowHeight changes the font-size based on a specific element's height. This allows for a perfect element fit at any screen height using the unit `rem` or `em`.
 
-## Options ##
-
-### Thresholds ###
-
-Set minimum and maximum height thresholds.
-
-```javascript
-$('html').flowheight({
-   minimum : 500,
-   maximum : 1200
-});
-```
-
-Set minimum and maximum font-size thresholds.
-
-```javascript
-$('html').flowheight({
-   minFont : 12,
-   maxFont : 40
-});
-```
-
-### Font-size ###
-
-Set your own font-size using the `fontRatio` variable. When using `fontRatio`, increase the value to make the font smaller (and vice versa).
-
-```javascript
-$('html').flowheight({
-   fontRatio : 30
-});
-```
-
 
 ## Getting Started ##
 
@@ -90,6 +58,40 @@ img {
   width: 15rem;
 }
 ```
+
+
+## Options ##
+
+### Thresholds ###
+
+Set minimum and maximum height thresholds.
+
+```javascript
+$('html').flowheight({
+   minimum : 500,
+   maximum : 1200
+});
+```
+
+Set minimum and maximum font-size thresholds.
+
+```javascript
+$('html').flowheight({
+   minFont : 12,
+   maxFont : 40
+});
+```
+
+### Font-size ###
+
+Set your own font-size using the `fontRatio` variable. When using `fontRatio`, increase the value to make the font smaller (and vice versa).
+
+```javascript
+$('html').flowheight({
+   fontRatio : 30
+});
+```
+
 
 ## Brought to you by... ##
 
