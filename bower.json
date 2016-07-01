@@ -1,0 +1,9 @@
+{
+    "name": "FlowHeight",
+    "version": "1.0.0",
+    "main": ["flowheight.js"],
+    "ignore": [],
+    "dependencies": {
+      "jquery": "latest"
+    }
+}
