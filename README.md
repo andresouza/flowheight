@@ -6,7 +6,7 @@ Inspired by [FlowType.JS](http://simplefocus.com/flowtype/)
 
 ## What does FlowHeight do? ##
 
-If you are building a awesome Landing Page or trying to style different sections and make their elements responsive across multiple devices, FlowHeight can help you!
+If you are building an awesome Landing Page or trying to style different sections and make their elements responsive across multiple devices, FlowHeight can help you!
 
 FlowHeight changes the font-size based on a specific element's height. This allows for a perfect element fit at any screen height using the unit `rem` or `em`.
 
@@ -15,8 +15,8 @@ FlowHeight changes the font-size based on a specific element's height. This allo
 
 ### Step 1: Install FlowHeight ###
 
-- [Download the latest release](xxx).
-- Clone the repo: `git clone xxx`.
+- [Download the latest release](https://github.com/andresouza/flowheight/releases/tag/1.0.0).
+- Clone the repo: `git clone https://github.com/andresouza/flowheight.git`.
 - Install with [Bower](http://bower.io): `bower install FlowHeight`.
 
 ### Step 2: Call FlowHeight ###
@@ -99,4 +99,4 @@ $('html').flowheight({
 
 FlowHeight is inspired by [FlowType.JS](http://simplefocus.com/flowtype/)
 
-Flowheight is licensed under the MIT License. See the LICENSE.txt file for copy permission.
+FlowHeight is licensed under the MIT License. See the LICENSE file for copy permission.
