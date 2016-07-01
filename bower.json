@@ -1,5 +1,5 @@
 {
-    "name": "Flowheight",
+    "name": "flowheight",
     "version": "1.0.0",
     "main": ["flowheight.js"],
     "ignore": [],
