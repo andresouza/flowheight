@@ -1,6 +1,6 @@
 # FlowHeight #
 
-Responsive web elements: position and style based on element height.
+Responsive web elements: position and style based on the browser window's height.
 
 Inspired by [FlowType.JS](http://simplefocus.com/flowtype/)
 
@@ -8,7 +8,7 @@ Inspired by [FlowType.JS](http://simplefocus.com/flowtype/)
 
 If you are building an awesome Landing Page or trying to style different sections and make their elements responsive across multiple devices, FlowHeight can help you!
 
-FlowHeight changes the font-size based on a specific element's height. This allows for a perfect element fit at any screen height using the unit `rem` or `em`.
+FlowHeight changes the font-size based on the browser window's height. This allows for a perfect element fit at any screen height using the unit `rem`.
 
 
 ## Getting Started ##
