@@ -10,6 +10,9 @@ If you are building an awesome Landing Page or trying to style different section
 
 FlowHeight changes the font-size based on the browser window's height. This allows for a perfect element fit at any screen height using the unit `rem`.
 
+## Demo ##
+
+Check the demo [here!](http://codepen.io/andresouza/pen/QEvqJd)
 
 ## Getting Started ##
 
